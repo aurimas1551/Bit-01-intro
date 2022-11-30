@@ -63,6 +63,10 @@ There is no tests for this project.
 
 Aurimas: [Github](https://github.com/aurimas1551)
 
+## ⚠️ License
+
+Distributed under the MIT License. See LICENSE.md for more information.
+
 ## 🔗 Other resources
 
 No other resouces.
