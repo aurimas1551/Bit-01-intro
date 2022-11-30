@@ -10,7 +10,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://aurimas1551.github.io/01-intro/
 
-Design: [UFO](./img/ufo.png)
+Design: [UFO](./img/design.png)
 
 ## 🎯 Project features/goals
 
